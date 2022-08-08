@@ -17,7 +17,7 @@ public class DemoApplication implements ApplicationListener<ApplicationReadyEven
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
-
+	// .\mvnw spring-boot:run
 	@Override
 	public void onApplicationEvent(ApplicationReadyEvent event) {
 		log.debug("######################################################");

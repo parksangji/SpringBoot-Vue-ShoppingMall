@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+dev_log/dev_shop_log.log
+dev_log/dev_shop_log.log
+.gitignore
+LOG_PATH_IS_UNDEFINED/dev_shop_log.log
+dev_log/dev_shop_log.log
+.gitignore
